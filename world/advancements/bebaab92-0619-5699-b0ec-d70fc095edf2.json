@@ -1,0 +1,21 @@
+{
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2021-01-09 07:34:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2021-01-09 07:36:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2021-01-09 07:34:10 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}
