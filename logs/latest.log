@@ -1,0 +1,58 @@
+[00:50:29] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:50:30] [ServerMain/INFO]: Loaded 7 recipes
+[00:50:30] [ServerMain/INFO]: Loaded 1271 advancements
+[00:50:31] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[00:50:31] [Server thread/INFO]: Loading properties
+[00:50:31] [Server thread/INFO]: Default game type: SURVIVAL
+[00:50:31] [Server thread/INFO]: Generating keypair
+[00:50:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:50:31] [Server thread/INFO]: Using default channel type
+[00:50:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:50:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:50:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:50:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:50:31] [Server thread/INFO]: Preparing level "world"
+[00:50:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:50:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:50:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:50:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:50:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:50:33] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:50:34] [Worker-Main-2/INFO]: Preparing spawn area: 72%
+[00:50:34] [Server thread/INFO]: Time elapsed: 2714 ms
+[00:50:34] [Server thread/INFO]: Done (2.822s)! For help, type "help"
+[00:50:34] [Server thread/INFO]: WorldEye121[/127.0.0.1:57791] logged in with entity id 10 at (-4.5, 55.0, -42.5)
+[00:50:34] [Server thread/INFO]: WorldEye121 joined the game
+[00:51:07] [Server thread/INFO]: Euphoriaa[/25.8.226.184:59146] logged in with entity id 11 at (-4.5, 55.0, -42.5)
+[00:51:07] [Server thread/INFO]: Euphoriaa joined the game
+[00:51:09] [Server thread/INFO]: [Not Secure] <WorldEye121> блять тут блоки ломаются
+[00:51:19] [Server thread/INFO]: [WorldEye121: Set own game mode to Adventure Mode]
+[00:51:19] [Server thread/INFO]: [WorldEye121: Set Euphoriaa's game mode to Adventure Mode]
+[00:51:34] [Server thread/INFO]: [Not Secure] <WorldEye121> похуй
+[00:51:40] [Server thread/INFO]: [Not Secure] <WorldEye121> пиздец
+[00:51:41] [Server thread/INFO]: [Not Secure] <WorldEye121> древность
+[00:51:43] [Server thread/INFO]: [Not Secure] <WorldEye121> я взялд
+[00:52:01] [Server thread/INFO]: [Not Secure] <WorldEye121> кхм
+[00:52:05] [Server thread/INFO]: [Not Secure] <WorldEye121> проблема
+[00:52:15] [Server thread/INFO]: [Not Secure] <WorldEye121> нихуя чети не рботает
+[00:52:22] [Server thread/INFO]: Euphoriaa burned to death
+[00:52:27] [Server thread/INFO]: [WorldEye121: Set own game mode to Spectator Mode]
+[00:52:27] [Server thread/INFO]: [WorldEye121: Set Euphoriaa's game mode to Spectator Mode]
+[00:52:34] [Server thread/INFO]: [Not Secure] <WorldEye121> та я хочу чекнуть почему не рабоает
+[00:52:41] [Server thread/INFO]: [WorldEye121: Set own game mode to Creative Mode]
+[00:52:41] [Server thread/INFO]: [WorldEye121: Set Euphoriaa's game mode to Creative Mode]
+[00:52:52] [Server thread/INFO]: [Euphoriaa: Set own game mode to Spectator Mode]
+[00:52:59] [Server thread/INFO]: [Euphoriaa: Set own game mode to Adventure Mode]
+[00:53:26] [Server thread/INFO]: [Not Secure] <WorldEye121> где
+[00:53:33] [Server thread/INFO]: [Not Secure] <WorldEye121> обычный
+[00:53:35] [Server thread/INFO]: [Not Secure] <WorldEye121> ебобо
+[00:53:36] [Server thread/INFO]: [Not Secure] <WorldEye121> это шейдеры
+[00:53:54] [Server thread/INFO]: [Not Secure] <WorldEye121> крч тут либо
+[00:53:56] [Server thread/INFO]: [Not Secure] <WorldEye121> версиб
+[00:53:56] [Server thread/INFO]: [Not Secure] <WorldEye121> ниже
+[00:53:58] [Server thread/INFO]: [Not Secure] <WorldEye121> либо хз
+[00:54:03] [Server thread/INFO]: [Not Secure] <WorldEye121> ща тогда
+[00:54:09] [Server thread/INFO]: Euphoriaa lost connection: Disconnected
+[00:54:09] [Server thread/INFO]: Euphoriaa left the game
+[00:54:16] [Server thread/INFO]: WorldEye121 lost connection: Disconnected
+[00:54:16] [Server thread/INFO]: WorldEye121 left the game

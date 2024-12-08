@@ -1,0 +1,50 @@
+[
+  {
+    "uuid": "848a7e72-fddc-4f4b-8c94-7f3722fd23f0",
+    "name": "Euphoris",
+    "created": "2024-12-08 00:33:31 +0300",
+    "source": "WorldEye121",
+    "expires": "forever",
+    "reason": "aa"
+  },
+  {
+    "uuid": "80d16b59-930b-4038-b85e-da8c5ad5c89b",
+    "name": "EUphori",
+    "created": "2024-12-08 00:33:23 +0300",
+    "source": "WorldEye121",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "327354cb-49b7-4fe9-8ae2-3fdd8b476572",
+    "name": "Euph",
+    "created": "2024-12-08 00:32:48 +0300",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "e475c4e3-0560-4800-907c-8a8a76f07f58",
+    "name": "EUP",
+    "created": "2024-12-08 00:33:17 +0300",
+    "source": "WorldEye121",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "ccf45379-45bf-4c0a-9814-1b5bb0cd8bfb",
+    "name": "Euphh",
+    "created": "2024-12-08 00:33:20 +0300",
+    "source": "WorldEye121",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "16caaa63-1165-410a-a0f1-49873012b46f",
+    "name": "eu",
+    "created": "2024-12-08 00:33:06 +0300",
+    "source": "WorldEye121",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
